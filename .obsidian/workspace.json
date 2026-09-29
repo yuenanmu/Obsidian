@@ -11,13 +11,17 @@
             "id": "6a2222ab04ace50f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "Excalidraw/画布-test.canvas",
+                "viewState": {
+                  "x": 11.5,
+                  "y": 159,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "画布-test"
             }
           }
         ]
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "Excalidraw/画布-test.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,13 +172,60 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "779fcfa2b24f787b",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1790688458115-2ds6aj5",
+                      "conversationId": "conv-1790690240945-qug4570dm"
+                    },
+                    {
+                      "tabId": "tab-1790690200682-1hijbxf",
+                      "conversationId": null,
+                      "draftModel": "opus",
+                      "providerId": "claude"
+                    }
+                  ],
+                  "activeTabId": "tab-1790688458115-2ds6aj5"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "280145f3bcfc3b7c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f3991e97d3275b4b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 866.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,12 +235,33 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6a2222ab04ace50f",
+  "active": "f3991e97d3275b4b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-09-29 22.42.37.excalidraw.md",
+    "Excalidraw/画布-test.canvas",
+    "Excalidraw",
+    "00-日记/2026-09-29.md",
+    "99-Templates/DailyNotes.md",
+    "00-日记/日记dataview.md",
+    "00-日记/2026-09-30.md",
     "欢迎.md",
+    "README.md",
+    "未命名",
+    "90-Attachements",
+    "99-Templates",
+    "40-归档",
+    "30-资源",
+    "20-领域",
+    "10-项目",
+    "00-日记",
     "未命名.base",
     "2026-09-29.md"
   ]
