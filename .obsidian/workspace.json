@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7bf3faf3b4f20015",
+        "id": "5acfcf7ea88c708e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2222ab04ace50f",
+            "id": "bf8b7a3dc6cf0c18",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/画布-test.canvas",
-                "viewState": {
-                  "x": 11.5,
-                  "y": 159,
-                  "zoom": 0
-                }
+                "file": "00-日记/2026-09-30.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "画布-test"
+              "icon": "lucide-file",
+              "title": "2026-09-30"
             }
           }
         ]
@@ -185,12 +183,6 @@
                     {
                       "tabId": "tab-1790688458115-2ds6aj5",
                       "conversationId": "conv-1790690240945-qug4570dm"
-                    },
-                    {
-                      "tabId": "tab-1790690200682-1hijbxf",
-                      "conversationId": null,
-                      "draftModel": "opus",
-                      "providerId": "claude"
                     }
                   ],
                   "activeTabId": "tab-1790688458115-2ds6aj5"
@@ -225,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 866.2999267578125
+    "width": 563.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,26 +235,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f3991e97d3275b4b",
+  "active": "bf8b7a3dc6cf0c18",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-09-29 22.42.37.excalidraw.md",
-    "Excalidraw/画布-test.canvas",
-    "Excalidraw",
-    "00-日记/2026-09-29.md",
-    "99-Templates/DailyNotes.md",
-    "00-日记/日记dataview.md",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.md",
     "00-日记/2026-09-30.md",
-    "欢迎.md",
-    "README.md",
-    "未命名",
-    "90-Attachements",
-    "99-Templates",
-    "40-归档",
-    "30-资源",
-    "20-领域",
-    "10-项目",
-    "00-日记",
+    "99-Templates/DailyNotes.md",
+    "99-Templates/ProjectNotes.md",
+    "HomePage.md",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143133549.png",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143103423.png",
+    "10-项目/B电脑vscode远程A电脑Ubuntu/未命名.md",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930144802275.png",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930144613176.png",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143523248.png",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143523248-17907501264203.png",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143446443.png",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143446443-17907500889102.png",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143103423-17907498683871.png",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets",
+    "30-资源/00远程开发/scripts/install-ubuntu-vm.sh",
+    "30-资源/00远程开发/scripts/check-windows-b.ps1",
+    "30-资源/00远程开发/scripts/check-ubuntu-vm.sh",
+    "30-资源/00远程开发/scripts",
+    "30-资源/00远程开发",
+    "10-项目/B电脑vscode远程A电脑Ubuntu",
     "未命名.base",
+    "99-Templates/每周回顾模板.md",
+    "00-日记/日记dataview.md",
+    "README.md",
+    "欢迎.md",
+    "00-日记/{{date}}.md",
+    "99-Templates/概念笔记模板.md",
+    "00-日记/2026-09-29.md",
+    "Clippings/Obsidian 工作流搭建.md",
+    "Excalidraw/画布-test.canvas",
+    "Clippings",
+    "Excalidraw/Drawing 2026-09-29 22.42.37.excalidraw.md",
+    "Excalidraw",
     "2026-09-29.md"
   ]
 }

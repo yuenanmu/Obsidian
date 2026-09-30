@@ -1,1 +1,5 @@
-{}
+{
+  "openBehavior": "file:HomePage.md",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}
