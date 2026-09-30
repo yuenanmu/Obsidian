@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 563.0999755859375
+    "width": 324.699951171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +237,13 @@
   },
   "active": "bf8b7a3dc6cf0c18",
   "lastOpenFiles": [
-    "30-资源/00远程开发/VSCode跨局域网远程连接手册.md",
+    "00-日记/{{date}}.md",
+    "HomePage.md",
     "00-日记/2026-09-30.md",
+    "00-日记/2026-09-29.md",
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.md",
     "99-Templates/DailyNotes.md",
     "99-Templates/ProjectNotes.md",
-    "HomePage.md",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143133549.png",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143103423.png",
     "10-项目/B电脑vscode远程A电脑Ubuntu/未命名.md",
@@ -264,9 +266,7 @@
     "00-日记/日记dataview.md",
     "README.md",
     "欢迎.md",
-    "00-日记/{{date}}.md",
     "99-Templates/概念笔记模板.md",
-    "00-日记/2026-09-29.md",
     "Clippings/Obsidian 工作流搭建.md",
     "Excalidraw/画布-test.canvas",
     "Clippings",
