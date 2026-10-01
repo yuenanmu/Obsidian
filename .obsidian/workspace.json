@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-日记/2026-10-01.md",
-                "mode": "source",
-                "source": false,
+                "file": "10-项目/CookRPC/CookRPC项目学习计划进度表.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-01"
+              "title": "CookRPC项目学习计划进度表"
             }
           }
         ]
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,20 +245,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f3991e97d3275b4b",
+  "active": "843b0c5d572c4f93",
   "lastOpenFiles": [
+    "99-Templates/ProjectNotes.md",
+    "20-领域/视频字幕留存/8条元提示词卡片.md",
+    "100-AI/工程模板",
+    "20-领域/视频字幕留存/准大四暑假从零做AI开发-项目实战经验（思维导图版）.md",
+    "100-AI/提示词",
+    "100-AI",
+    "00-日记/2026-10-01.md",
+    "20-领域/视频字幕留存",
     "00-日记/2026-09-30.md",
-    "10-项目/新建文件夹/CookRPC项目学习计划进度表.md",
+    "10-项目/CookRPC/CookRPC项目学习计划进度表.md",
     "Excalidraw/画布-test.canvas",
     "Excalidraw/Drawing 2026-10-01 10.59.30.excalidraw.md",
     "HomePage.md",
     "00-日记/日记dataview.md",
-    "00-日记/2026-10-01.md",
-    "30-资源/准大四暑假从零做AI开发-项目实战经验（思维导图版）.md",
     "00-日记/2026-09-29.md",
-    "30-资源/8条元提示词卡片.md",
     "README.md",
-    "10-项目/新建文件夹",
+    "10-项目/CookRPC",
     "00-日记/2026-40-周记.md",
     "Untitled Kanban.md",
     "未命名.base",
@@ -267,7 +273,6 @@
     "00-日记/{{date}}.md",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.md",
     "99-Templates/DailyNotes.md",
-    "99-Templates/ProjectNotes.md",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143133549.png",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143103423.png",
     "10-项目/B电脑vscode远程A电脑Ubuntu/未命名.md",
@@ -282,14 +287,10 @@
     "30-资源/00远程开发/scripts/install-ubuntu-vm.sh",
     "30-资源/00远程开发/scripts/check-windows-b.ps1",
     "30-资源/00远程开发/scripts/check-ubuntu-vm.sh",
-    "30-资源/00远程开发/scripts",
-    "30-资源/00远程开发",
-    "10-项目/B电脑vscode远程A电脑Ubuntu",
     "99-Templates/每周回顾模板.md",
     "欢迎.md",
     "99-Templates/概念笔记模板.md",
     "Clippings/Obsidian 工作流搭建.md",
-    "Clippings",
     "2026-09-29.md"
   ]
 }
