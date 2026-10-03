@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-项目/CookRPC/CookRPC项目学习计划进度表.md",
-                "mode": "preview",
+                "file": "00-日记/2026-10-03.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CookRPC项目学习计划进度表"
+              "title": "2026-10-03"
             }
           }
         ]
@@ -89,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,52 +244,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "843b0c5d572c4f93",
+  "active": "f3991e97d3275b4b",
   "lastOpenFiles": [
+    "00-日记/2026-10-02.md",
+    "00-日记/2026-10-03.md",
+    "00-日记/2026-10-01.md",
+    "10-项目/CookRPC/CookRPC改造TODO与优先级路线图.md",
+    "HomePage.md",
+    "10-项目/CookRPC/rpcframework/CookRPC源码闭环审计与训练计划对照.md",
+    "10-项目/CookRPC/rpcframework/CookRPC架构与文件职责说明.md",
+    "10-项目/CookRPC/rpcframework/CookRPC项目学习计划进度表 1.md",
+    "10-项目/CookRPC/rpcframework/rpc_build.sh",
+    "10-项目/CookRPC/CookRPC源码闭环审计与训练计划对照.md",
+    "10-项目/CookRPC/CookRPC架构与文件职责说明.md",
+    "10-项目/CookRPC/rpcframework/test.cpp",
+    "10-项目/CookRPC/rpcframework/stress_test.sh",
+    "10-项目/CookRPC/rpcframework/utils/util_fun.h",
+    "10-项目/CookRPC/rpcframework/utils/util_fun.cpp",
+    "10-项目/CookRPC/rpcframework/utils/log_manager.h",
+    "10-项目/CookRPC/rpcframework/utils",
+    "10-项目/CookRPC/rpcframework/protos/message.pb.cc",
+    "10-项目/CookRPC/rpcframework/protos/message.proto",
+    "10-项目/CookRPC/rpcframework/protos/message.pb.h",
+    "10-项目/CookRPC/rpcframework/docs/MASTER_KEY_GUIDE.md",
+    "10-项目/CookRPC/rpcframework/CookRPC项目学习计划进度表.md",
+    "10-项目/CookRPC/CookRPC项目学习计划进度表.md",
+    "10-项目/CookRPC/rpcframework/rpc_src/thread_pool/README.md",
+    "10-项目/CookRPC/rpcframework/README.md",
+    "10-项目/CookRPC/未命名.md",
     "99-Templates/ProjectNotes.md",
     "20-领域/视频字幕留存/8条元提示词卡片.md",
-    "100-AI/工程模板",
     "20-领域/视频字幕留存/准大四暑假从零做AI开发-项目实战经验（思维导图版）.md",
-    "100-AI/提示词",
-    "100-AI",
-    "00-日记/2026-10-01.md",
-    "20-领域/视频字幕留存",
     "00-日记/2026-09-30.md",
-    "10-项目/CookRPC/CookRPC项目学习计划进度表.md",
     "Excalidraw/画布-test.canvas",
     "Excalidraw/Drawing 2026-10-01 10.59.30.excalidraw.md",
-    "HomePage.md",
     "00-日记/日记dataview.md",
     "00-日记/2026-09-29.md",
     "README.md",
-    "10-项目/CookRPC",
     "00-日记/2026-40-周记.md",
     "Untitled Kanban.md",
-    "未命名.base",
     "未命名.canvas",
-    "Excalidraw/Drawing 2026-09-29 22.42.37.excalidraw.md",
-    "Drawing 2026-10-01 11.12.34.excalidraw.md",
-    "00-日记/{{date}}.md",
-    "30-资源/00远程开发/VSCode跨局域网远程连接手册.md",
-    "99-Templates/DailyNotes.md",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143133549.png",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143103423.png",
-    "10-项目/B电脑vscode远程A电脑Ubuntu/未命名.md",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930144802275.png",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930144613176.png",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143523248.png",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143523248-17907501264203.png",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143446443.png",
     "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143446443-17907500889102.png",
-    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143103423-17907498683871.png",
-    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets",
-    "30-资源/00远程开发/scripts/install-ubuntu-vm.sh",
-    "30-资源/00远程开发/scripts/check-windows-b.ps1",
-    "30-资源/00远程开发/scripts/check-ubuntu-vm.sh",
-    "99-Templates/每周回顾模板.md",
-    "欢迎.md",
-    "99-Templates/概念笔记模板.md",
-    "Clippings/Obsidian 工作流搭建.md",
-    "2026-09-29.md"
+    "30-资源/00远程开发/VSCode跨局域网远程连接手册.assets/image-20260930143103423-17907498683871.png"
   ]
 }

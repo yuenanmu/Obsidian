@@ -30,12 +30,12 @@ source_repo: https://github.com/CppTrainingHub/rpc-tutorial
 
 ## 阶段一：学习准备
 
-- [ ] ⏱ 1h · **项目介绍与需求分析**
+- [x] ⏱ 1h · **项目介绍与需求分析**
 	- 学习目标：了解项目的背景以及需求
 	- 验收标准：
-		- [ ] 学1.1 总结出项目的背景以及重要性
-		- [ ] 学1.2 阐述开展 RPC 项目的背景原因及主要应用场景
-		- [ ] 学1.3 说明相较于传统通信方式，RPC 项目的显著优势
+		- [x] 学1.1 总结出项目的背景以及重要性
+		- [x] 学1.2 阐述开展 RPC 项目的背景原因及主要应用场景
+		- [x] 学1.3 说明相较于传统通信方式，RPC 项目的显著优势
 - [ ] ⏱ 8h · **项目开发环境搭建**
 	- 学习目标：搭建开发环境
 	- 验收标准：
@@ -44,15 +44,15 @@ source_repo: https://github.com/CppTrainingHub/rpc-tutorial
 	- 学习目标：安装项目工具
 	- 验收标准：
 		- [ ] 学3.1 安装 vcpkg、spdlog、zookeeper、zstd、nlohmann_json
-- [ ] ⏱ 8h · **C++ 代码规范**
+- [x] ⏱ 8h · **C++ 代码规范**
 	- 学习目标：了解 C++ 编码规范
 	- 验收标准：
 		- [ ] 学4.1 掌握常见的 C++ 编码规范
 		- [ ] 学4.2 整体阅读一遍 Google 的 C++ 编码规范，了解每条规范背后的目的
-- [ ] ⏱ 1h · **分支 & 代码提交规范**
+- [x] ⏱ 1h · **分支 & 代码提交规范**
 	- 学习目标：了解代码提交规范
 	- 验收标准：
-		- [ ] 学5.1 学会 git 的基本用法
+		- [x] 学5.1 学会 git 的基本用法
 - [ ] ⏱ 2h · **nlohmann/json**
 	- 参考：<https://github.com/nlohmann/json>
 	- 学习目标：学会使用 nlohmann/json
@@ -96,7 +96,7 @@ source_repo: https://github.com/CppTrainingHub/rpc-tutorial
 		- [ ] 学12.1 掌握 CMake 的基本使用
 		- [ ] 学12.2 通过 CMake 构建一个 Hello World 小 Demo，并能成功运行
 		- [ ] 学12.3 在多操作系统上练习构建 Windows / Linux / macOS 的 Demo 并成功运行
-- [ ] ⏱ 8h · **Git 的使用**
+- [x] ⏱ 8h · **Git 的使用**
 	- 学习目标：学习 git 的使用
 	- 验收标准：
 		- [ ] 学13.1 了解 git 的作用
